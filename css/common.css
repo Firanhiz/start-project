@@ -1,0 +1,26 @@
+.flex {
+    display: flex;
+}
+
+.space-around {
+    justify-content: space-around;
+}
+
+.direction-column {
+    flex-direction: column;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+.item-size {
+    width: 100px;
+    height: 100px;
+    flex-grow: 0;
+    margin: 15px;
+}
+
+.align-content-center {
+    align-content: center;
+}

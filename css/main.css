@@ -1,0 +1,62 @@
+body {
+    background-color: bisque;
+}
+
+.container {
+    width: 100%;
+}
+
+.content {
+    margin: 60px auto;
+    background-color:rgb(253, 215, 192);
+    width: 500px;
+    height: 500px;
+}
+
+.content-item1 {
+    background-color: burlywood;
+}
+
+.content-item2 {
+    background-color: rgb(240, 166, 230);
+}
+
+.content-item3 {
+    background-color: rgb(186, 225, 240);
+}
+
+.content-item4 {
+    background-color: rgb(116, 241, 200);
+}
+
+.content-item5 {
+    background-color: rgb(238, 89, 101);
+}
+
+.content-item6 {
+    background-color: rgb(40, 171, 223);
+}
+
+.content-item7 {
+    background-color: rgb(129, 221, 167);
+}
+
+.content-item8 {
+    background-color: rgb(228, 156, 63);
+}
+
+.content-item9 {
+    background-color: rgb(122, 76, 92);
+}
+
+.content-item10 {
+    background-color: rgb(155, 161, 165);
+}
+
+.content-item11 {
+    background-color: rgb(10, 105, 117);
+}
+
+.content-item12 {
+    background-color: rgb(233, 243, 87);
+}
